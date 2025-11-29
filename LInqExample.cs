@@ -188,6 +188,15 @@ namespace WindowsFormsLINQ
                 // LINQ 를 이용해서 eng 점수 >= 입력받은 점수 인 멤버를 선택
                 // dgvCondition(데이터그리드뷰) 에 추가
             }
+            else
+            {
+                MessageBox.Show("공백입니다. 다시 입력해주세요");
+                txtCID.Text = "";
+                txtCName.Text = "";
+                txtCKor.Text = "";
+                txtCEng.Text = "";
+                txtCMath.Text = "";
+            }
         }
         private void InitStudents()
         {

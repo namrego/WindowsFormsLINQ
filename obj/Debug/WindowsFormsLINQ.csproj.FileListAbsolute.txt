@@ -8,3 +8,13 @@ D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.Ge
 D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.CoreCompileInputs.cache
 D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.exe
 D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.pdb
+C:\Users\USER\Desktop\공부\1129\bin\Debug\WindowsFormsLINQ.exe.config
+C:\Users\USER\Desktop\공부\1129\bin\Debug\WindowsFormsLINQ.exe
+C:\Users\USER\Desktop\공부\1129\bin\Debug\WindowsFormsLINQ.pdb
+C:\Users\USER\Desktop\공부\1129\obj\Debug\WindowsFormsLINQ.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\공부\1129\obj\Debug\WindowsFormsLINQ.LInqExample.resources
+C:\Users\USER\Desktop\공부\1129\obj\Debug\WindowsFormsLINQ.Properties.Resources.resources
+C:\Users\USER\Desktop\공부\1129\obj\Debug\WindowsFormsLINQ.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\공부\1129\obj\Debug\WindowsFormsLINQ.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\공부\1129\obj\Debug\WindowsFormsLINQ.exe
+C:\Users\USER\Desktop\공부\1129\obj\Debug\WindowsFormsLINQ.pdb
