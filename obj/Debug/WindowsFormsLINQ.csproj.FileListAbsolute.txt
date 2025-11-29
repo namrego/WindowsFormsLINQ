@@ -1,0 +1,10 @@
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\bin\Debug\WindowsFormsLINQ.exe.config
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\bin\Debug\WindowsFormsLINQ.exe
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\bin\Debug\WindowsFormsLINQ.pdb
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.AssemblyReference.cache
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.LInqExample.resources
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.Properties.Resources.resources
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.GenerateResource.cache
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.CoreCompileInputs.cache
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.exe
+D:\minwoo\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.pdb
